@@ -1,0 +1,13 @@
+========================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on 31 March 2026
+  By: root
+========================================
+
+I believe in the power of open source software. Every day, I rely on Linux -- a tool that exists because someone chose to share their work with the world instead of locking it away. To me, freedom means ability to do anything, and that is exactly what the open source movement represents. It is the idea that knowledge grows when it is shared, not when it is hoarded.
+
+If I could build one thing and give it away freely, it would be an open-sourced, ai powered educational platform. Not for recognition or profit, but because I know what it feels like to benefit from someone else's generosity. Every open source contributor before me made my work possible. The least I can do is pay it forward.
+
+Open source is not just a licensing model. It is a commitment to transparency, to collaboration, and to the belief that the best software is built by communities, not corporations. I stand on the shoulders of giants, and I hope to lift others up in return.
+
+--- End of Manifesto ---

@@ -1,0 +1,31 @@
+Mar 30 08:01:12 ubuntu systemd[1]: Starting Daily apt download activities...
+Mar 30 08:01:15 ubuntu systemd[1]: Started Daily apt download activities.
+Mar 30 08:05:33 ubuntu kernel: [42031.221] USB device connected
+Mar 30 08:12:44 ubuntu sshd[2201]: WARNING: Failed password for admin from 192.168.1.105
+Mar 30 08:12:45 ubuntu sshd[2201]: error: PAM authentication failure for admin
+Mar 30 08:15:01 ubuntu CRON[2234]: (root) CMD (command -v debian-sa1 > /dev/null)
+Mar 30 08:22:17 ubuntu kernel: [43102.556] error: ata1: device not ready
+Mar 30 08:30:00 ubuntu systemd[1]: Starting System Logging Service...
+Mar 30 08:30:01 ubuntu rsyslogd: rsyslogd started
+Mar 30 08:45:12 ubuntu nginx[891]: 200 GET /index.html 192.168.1.50
+Mar 30 08:45:13 ubuntu nginx[891]: 404 GET /missing-page.html 192.168.1.51
+Mar 30 08:50:22 ubuntu kernel: [44831.009] WARNING: CPU temperature above threshold
+Mar 30 09:01:00 ubuntu systemd[1]: Started Daily Cleanup of Temporary Directories.
+Mar 30 09:15:33 ubuntu sshd[2401]: Accepted publickey for developer from 10.0.0.5
+Mar 30 09:22:11 ubuntu sudo: developer : TTY=pts/0 ; PWD=/home/developer ; COMMAND=/bin/apt update
+Mar 30 09:30:44 ubuntu kernel: [47299.112] error: Buffer I/O error on device sdb1
+Mar 30 09:35:00 ubuntu mysql[1102]: WARNING: Aborted connection 14 to db: 'appdb'
+Mar 30 09:40:12 ubuntu systemd[1]: Starting Apache HTTP Server...
+Mar 30 09:40:15 ubuntu apache2[1201]: Server configured, listening on port 80
+Mar 30 09:55:01 ubuntu kernel: [48700.331] Out of memory: Killed process 1455 (java)
+Mar 30 10:00:00 ubuntu CRON[2500]: (root) CMD (/usr/lib/apt/apt.systemd.daily)
+Mar 30 10:10:22 ubuntu sshd[2601]: error: Connection closed by 192.168.1.200 [preauth]
+Mar 30 10:15:33 ubuntu kernel: [49888.442] WARNING: possible circular locking dependency detected
+Mar 30 10:22:45 ubuntu nginx[891]: error: upstream timed out (110: Connection timed out)
+Mar 30 10:30:11 ubuntu systemd[1]: Stopping User Manager for UID 1001...
+Mar 30 10:30:15 ubuntu systemd[1]: Stopped User Manager for UID 1001.
+Mar 30 10:45:00 ubuntu mysql[1102]: error: Table 'appdb.sessions' doesn't exist
+Mar 30 11:00:22 ubuntu kernel: [52877.556] error: EXT4-fs error: unable to read inode block
+Mar 30 11:05:33 ubuntu sshd[2801]: WARNING: Weak host key algorithm negotiated
+Mar 30 11:15:44 ubuntu systemd[1]: Starting Cleanup of Temporary Directories...
+Mar 30 11:20:00 ubuntu rsyslogd: WARNING: large message size 4096 bytes
